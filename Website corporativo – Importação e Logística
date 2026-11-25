@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="pt-MZ">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Importação, Fotocopiadoras e Peças Automotivas em Moçambique | Cotação em 7–10 dias úteis</title>
+<meta name="description" content="Importamos da China e do mercado global: fotocopiadoras Ricoh e Kyocera, peças e acessórios automotivos, com assistência técnica em Moçambique. Peça a sua cotação.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#0b2545;--navy2:#13315c;--ink:#14213d;--bg:#fff;--soft:#f3f5f8;--line:#dde3ea;--mut:#5b6678;--acc:#f28c28;--on-navy:#e8eef7;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:light}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--ink:#e8eef7;--bg:#0a1424;--soft:#0f1d33;--line:#23364f;--mut:#9fb0c6;color-scheme:dark}}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-behavior:smooth;scroll-padding-top:72px;height:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 17px/1.6 "Source Sans 3",system-ui,sans-serif}
+h1,h2,h3{font-family:Sora,system-ui,sans-serif;line-height:1.15;margin:0}
+a{color:inherit}
+.w{max-width:1120px;margin:0 auto;padding:0 20px}
+section{padding:84px 0}
+h2{font-size:clamp(1.7rem,3.4vw,2.5rem);max-width:20ch;margin-bottom:14px}
+.lead{color:var(--mut);max-width:60ch;margin:0 0 40px}
+:focus-visible{outline:3px solid var(--acc);outline-offset:3px}
+.btn{display:inline-block;padding:14px 24px;border-radius:6px;font-weight:600;text-decoration:none;border:2px solid transparent;cursor:pointer;font-size:1rem;font-family:inherit;transition:transform .15s,background .15s}
+.btn:hover{transform:translateY(-2px)}
+.b1{background:var(--acc);color:#1b1205}.b2{border-color:#8fa6c4;color:#fff}.b3{background:var(--navy);color:#fff}
+header{position:sticky;top:0;z-index:20;background:var(--navy);color:#fff}
+header .w{display:flex;align-items:center;justify-content:space-between;height:64px}
+.logo{font:700 1.1rem Sora,sans-serif;text-decoration:none;letter-spacing:.2px}
+.logo i{color:var(--acc);font-style:normal}
+nav{display:flex;gap:26px;align-items:center}
+nav a{text-decoration:none;font-size:.95rem;color:var(--on-navy)}
+nav a:hover{color:var(--acc)}
+@media(max-width:820px){nav a:not(.btn){display:none}nav .btn{padding:9px 16px}}
+.hero{background:linear-gradient(160deg,var(--navy),var(--navy2));color:#fff;padding:72px 0 0;overflow:hidden}
+.hero .w{display:grid;grid-template-columns:1.05fr .95fr;gap:36px;align-items:center}
+@media(max-width:900px){.hero .w{grid-template-columns:1fr}}
+.hero h1{font-size:clamp(2.1rem,4.8vw,3.5rem);margin-bottom:20px}
+.hero p{color:var(--on-navy);max-width:52ch;font-size:1.12rem;margin:0 0 30px}
+.cta{display:flex;gap:12px;flex-wrap:wrap}
+.map{width:100%;height:auto}
+.route{stroke-dasharray:6 7;animation:dash 2.4s linear infinite}
+@keyframes dash{to{stroke-dashoffset:-26}}
+.fig{margin-top:56px;background:rgba(255,255,255,.07);border-top:1px solid rgba(255,255,255,.15)}
+.fig .w{display:grid;grid-template-columns:repeat(4,1fr);gap:0;padding:0}
+.fig div{padding:24px 20px;border-left:1px solid rgba(255,255,255,.14);font-size:.97rem;color:var(--on-navy)}
+.fig div:first-child{border-left:0}
+.fig b{display:block;font:700 1.05rem Sora,sans-serif;color:#fff;margin-bottom:4px}
+@media(max-width:820px){.fig .w{grid-template-columns:1fr 1fr}.fig div:nth-child(3){border-left:0}}
+.serv{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+@media(max-width:980px){.serv{grid-template-columns:1fr 1fr}}@media(max-width:560px){.serv{grid-template-columns:1fr}}
+.card{background:var(--soft);border:1px solid var(--line);border-radius:10px;overflow:hidden;display:flex;flex-direction:column}
+.card svg{display:block;width:100%;height:130px;background:var(--navy)}
+.card div{padding:20px}
+.card h3{font-size:1.08rem;margin-bottom:8px}
+.card p{margin:0;color:var(--mut);font-size:.98rem}
+.soft{background:var(--soft)}
+.imp{background:var(--navy);color:#fff}
+.imp .w{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center}
+@media(max-width:860px){.imp .w{grid-template-columns:1fr}}
+.imp p{color:var(--on-navy);font-size:1.12rem;max-width:48ch;margin:0 0 28px}
+.chips{display:flex;flex-wrap:wrap;gap:10px}
+.chips span{border:1px solid #3b5a85;border-radius:99px;padding:8px 16px;font-size:.95rem;color:var(--on-navy)}
+.brands{display:flex;gap:20px;flex-wrap:wrap}
+.brand{flex:1 1 240px;border:1px solid var(--line);border-radius:10px;padding:34px 20px;text-align:center;font:700 2rem Sora,sans-serif;letter-spacing:1px;background:var(--bg)}
+.note{font-size:.88rem;color:var(--mut);margin-top:14px}
+.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:0;counter-reset:s;position:relative}
+@media(max-width:860px){.steps{grid-template-columns:1fr}}
+.step{padding:0 22px 0 0;position:relative}
+.step::before{counter-increment:s;content:counter(s);display:grid;place-items:center;width:42px;height:42px;border-radius:50%;background:var(--navy);color:#fff;font:700 1rem Sora,sans-serif;margin-bottom:16px;position:relative;z-index:1}
+.step::after{content:"";position:absolute;top:20px;left:42px;right:0;height:2px;background:var(--line)}
+.step:last-child::after{display:none}
+@media(max-width:860px){.step{padding:0 0 28px 62px}.step::before{position:absolute;left:0;top:0}.step::after{top:42px;left:20px;right:auto;width:2px;height:calc(100% - 42px)}}
+.step h3{font-size:1.1rem;margin-bottom:6px}.step p{margin:0;color:var(--mut);font-size:.98rem}
+.prazo{margin-top:36px;padding:16px 20px;border-left:4px solid var(--acc);background:var(--soft);max-width:70ch}
+.why{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-top:1px solid var(--line)}
+@media(max-width:860px){.why{grid-template-columns:1fr 1fr}}@media(max-width:560px){.why{grid-template-columns:1fr}}
+.why div{padding:26px 24px 26px 0;border-bottom:1px solid var(--line)}
+.why h3{font-size:1.05rem;margin-bottom:6px}.why p{margin:0;color:var(--mut);font-size:.97rem}
+.q{display:grid;grid-template-columns:.8fr 1.2fr;gap:48px}
+@media(max-width:860px){.q{grid-template-columns:1fr;gap:24px}}
+form{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.f{display:flex;flex-direction:column;gap:6px}.full{grid-column:1/-1}
+@media(max-width:560px){form{grid-template-columns:1fr}}
+label{font-weight:600;font-size:.93rem}
+input,select,textarea{font:inherit;color:var(--ink);background:var(--bg);border:1px solid #aab6c6;border-radius:6px;padding:12px;width:100%}
+textarea{min-height:120px;resize:vertical}
+.ok{display:none;margin-top:14px;padding:14px;border-radius:6px;background:var(--soft);border-left:4px solid var(--acc)}
+.ct{display:grid;grid-template-columns:repeat(2,1fr);gap:14px 40px;max-width:760px;margin-bottom:28px}
+@media(max-width:560px){.ct{grid-template-columns:1fr}}
+.ct dt{font-weight:600}.ct dd{margin:0;color:var(--mut)}
+footer{background:var(--navy);color:var(--on-navy);padding:30px 0;font-size:.93rem}
+footer .w{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap}
+.wa{position:fixed;right:max(18px,env(safe-area-inset-right,0px));bottom:calc(18px + env(safe-area-inset-bottom,0px));z-index:30;width:58px;height:58px;border-radius:50%;background:#25d366;display:grid;place-items:center;box-shadow:0 6px 18px rgba(0,0,0,.28)}
+.wa svg{width:30px;height:30px;fill:#fff}
+@media(prefers-reduced-motion:reduce){.route{animation:none}html{scroll-behavior:auto}.btn{transition:none}}
+</style>
+</head>
+<body>
+<header><div class="w">
+<a class="logo" href="#inicio" aria-label="Início">Nome da <i>Empresa</i></a>
+<nav><a href="#servicos">Serviços</a><a href="#importar">Importação</a><a href="#processo">Processo</a><a href="#contactos">Contactos</a><a class="btn b1" href="#cotacao">Pedir cotação</a></nav>
+</div></header>
+
+<main id="inicio">
+<div class="hero"><div class="w">
+<div>
+<h1>Conectamos Moçambique às melhores soluções do mercado global.</h1>
+<p>Importação, exportação, fornecimento de equipamentos e assistência técnica. Encontramos, importamos e fornecemos aquilo de que o seu negócio precisa.</p>
+<div class="cta"><a class="btn b1" href="#cotacao">Solicitar Cotação</a><a class="btn b2" href="https://wa.me/258865515306?text=Ol%C3%A1%2C%20gostaria%20de%20falar%20com%20um%20consultor." target="_blank" rel="noopener">Falar com um Consultor</a></div>
+</div>
+<svg class="map" viewBox="0 0 520 360" role="img" aria-label="Rota de importação da China até Maputo">
+<rect x="0" y="0" width="520" height="360" fill="none"/>
+<g fill="none" stroke="#2c4a78" stroke-width="1"><path d="M0 60H520M0 120H520M0 180H520M0 240H520M0 300H520M80 0V360M180 0V360M280 0V360M380 0V360M480 0V360"/></g>
+<path class="route" d="M410 90 C 330 20, 190 90, 130 270" fill="none" stroke="#f28c28" stroke-width="3" stroke-linecap="round"/>
+<circle cx="410" cy="90" r="9" fill="#f28c28"/><circle cx="130" cy="270" r="9" fill="#fff"/><circle cx="130" cy="270" r="20" fill="none" stroke="#fff" stroke-opacity=".4"/>
+<g font-family="Sora,sans-serif" font-size="15" font-weight="700" fill="#fff"><text x="372" y="124">China</text><text x="82" y="312">Maputo</text></g>
+<text x="170" y="60" font-family="Sora,sans-serif" font-size="13" fill="#e8eef7">7–10 dias úteis*</text>
+</svg>
+</div>
+<div class="fig"><div class="w">
+<div><b>Importação internacional</b>Fornecedores na China e noutros mercados</div>
+<div><b>Soluções personalizadas</b>Cada pedido avaliado caso a caso</div>
+<div><b>7–10 dias úteis</b>Prazo estimado para determinadas encomendas</div>
+<div><b>Assistência técnica</b>Suporte aos equipamentos que vendemos</div>
+</div></div>
+</div>
+
+<section id="servicos"><div class="w">
+<h2>Nossos serviços</h2>
+<p class="lead">Do equipamento de escritório à peça automotiva: fornecemos, importamos e damos suporte.</p>
+<div class="serv">
+<article class="card"><svg viewBox="0 0 200 130" aria-hidden="true"><g fill="none" stroke="#f28c28" stroke-width="3"><rect x="40" y="48" width="120" height="50"/><path d="M40 48l30-24h60l30 24M100 24v74"/></g></svg><div><h3>Importação e Exportação</h3><p>Importamos e exportamos diversos materiais, equipamentos e produtos, conectando empresas moçambicanas aos mercados internacionais.</p></div></article>
+<article class="card"><svg viewBox="0 0 200 130" aria-hidden="true"><g fill="none" stroke="#f28c28" stroke-width="3"><rect x="50" y="46" width="100" height="44" rx="4"/><path d="M70 46V28h60v18M70 90v14h60V90"/><circle cx="136" cy="62" r="3" fill="#f28c28"/></g></svg><div><h3>Equipamentos de Escritório</h3><p>Fornecimento e comercialização de fotocopiadoras, máquinas multifuncionais e equipamentos de escritório, incluindo marcas como Ricoh e Kyocera.</p></div></article>
+<article class="card"><svg viewBox="0 0 200 130" aria-hidden="true"><g fill="none" stroke="#f28c28" stroke-width="3"><circle cx="100" cy="65" r="34"/><circle cx="100" cy="65" r="10"/><path d="M100 31v24M100 75v24M66 65h24M110 65h24"/></g></svg><div><h3>Peças e Acessórios Automotivos</h3><p>Disponibilizamos soluções para o setor automotivo, incluindo suspensões, faróis LED e diversas peças e acessórios para veículos.</p></div></article>
+<article class="card"><svg viewBox="0 0 200 130" aria-hidden="true"><g fill="none" stroke="#f28c28" stroke-width="3" stroke-linecap="round"><path d="M70 100l46-46"/><path d="M116 54a20 20 0 1 0-20-20l12 12 8-4 4-8z" transform="translate(6 4)"/></g></svg><div><h3>Assistência Técnica</h3><p>Prestamos assistência técnica, manutenção e suporte para os equipamentos comercializados.</p></div></article>
+</div></div></section>
+
+<section id="importar" class="imp"><div class="w">
+<div>
+<h2>O que podemos importar para si?</h2>
+<p>Não encontrou o equipamento ou material de que precisa em Moçambique? Nós ajudamos a localizar, avaliar e importar o produto ideal para si.</p>
+<a class="btn b1" href="#cotacao">Consultar Disponibilidade</a>
+</div>
+<div class="chips"><span>Máquinas e fotocopiadoras</span><span>Peças automotivas</span><span>Faróis LED</span><span>Sistemas de suspensão</span><span>Equipamentos de escritório</span><span>Materiais diversos</span><span>Produtos diretamente da China</span></div>
+</div></section>
+
+<section><div class="w">
+<h2>Marcas com que trabalhamos</h2>
+<p class="lead">Equipamentos de referência mundial em impressão e cópia.</p>
+<div class="brands"><div class="brand">RICOH</div><div class="brand">KYOCERA</div></div>
+<p class="note">Substitua estes nomes pelos logótipos oficiais, respeitando as diretrizes de cada marca e as autorizações de uso.</p>
+</div></section>
+
+<section id="processo" class="soft"><div class="w">
+<h2>Como funciona o processo de importação?</h2>
+<p class="lead">Quatro passos, do pedido à entrega.</p>
+<div class="steps">
+<div class="step"><h3>Pedido</h3><p>O cliente informa qual é o produto ou equipamento de que necessita.</p></div>
+<div class="step"><h3>Consulta</h3><p>A empresa verifica a disponibilidade, fornecedor e custos.</p></div>
+<div class="step"><h3>Confirmação</h3><p>O cliente recebe a cotação e confirma a encomenda.</p></div>
+<div class="step"><h3>Entrega</h3><p>A empresa organiza a importação e entrega do produto.</p></div>
+</div>
+<p class="prazo">* Prazo estimado de 7 a 10 dias úteis após a confirmação da encomenda, sujeito à disponibilidade e às condições de transporte.</p>
+</div></section>
+
+<section><div class="w">
+<h2>Porque escolher-nos?</h2>
+<p class="lead">Um parceiro local com acesso a fornecedores globais.</p>
+<div class="why">
+<div><h3>Fornecedores internacionais</h3><p>Acesso a fornecedores fora do mercado moçambicano e sul-africano.</p></div>
+<div><h3>Soluções personalizadas</h3><p>Procuramos o produto certo para a sua necessidade.</p></div>
+<div><h3>Variedade de produtos</h3><p>Equipamentos, peças e materiais de várias categorias.</p></div>
+<div><h3>Assistência técnica</h3><p>Suporte e manutenção dos equipamentos que comercializamos.</p></div>
+<div><h3>Atendimento personalizado</h3><p>Falamos diretamente consigo, por telefone ou WhatsApp.</p></div>
+<div><h3>Qualidade e confiança</h3><p>Compromisso com transparência em custos, prazos e condições.</p></div>
+</div></div></section>
+
+<section id="cotacao" class="soft"><div class="w q">
+<div><h2>Pedir uma cotação</h2><p class="lead">Descreva o que procura. O pedido segue para o nosso WhatsApp e respondemos com disponibilidade, custos e prazo.</p></div>
+<div>
+<form id="qf" novalidate>
+<div class="f"><label for="nome">Nome completo *</label><input id="nome" name="nome" required autocomplete="name"></div>
+<div class="f"><label for="emp">Nome da empresa (opcional)</label><input id="emp" name="emp" autocomplete="organization"></div>
+<div class="f"><label for="tel">Número de telefone *</label><input id="tel" name="tel" type="tel" required autocomplete="tel" placeholder="+258 ..."></div>
+<div class="f"><label for="mail">Endereço de email *</label><input id="mail" name="mail" type="email" required autocomplete="email"></div>
+<div class="f full"><label for="cat">Categoria do produto *</label><select id="cat" name="cat" required><option value="">Selecione</option><option>Fotocopiadoras e multifuncionais</option><option>Equipamentos de escritório</option><option>Peças e acessórios automotivos</option><option>Assistência técnica</option><option>Outro produto ou material</option></select></div>
+<div class="f full"><label for="desc">Descrição do produto ou equipamento pretendido *</label><textarea id="desc" name="desc" required></textarea></div>
+<div class="f full"><label for="pais">País de origem pretendido (opcional)</label><input id="pais" name="pais" placeholder="Ex.: China"></div>
+<div class="full"><button class="btn b3" type="submit">Enviar Pedido de Cotação</button></div>
+</form>
+<div class="ok" id="ok" role="status">Falta pouco: abrimos o WhatsApp com o seu pedido preenchido. Basta tocar em enviar.</div>
+</div></div></section>
+
+<section id="contactos"><div class="w">
+<h2>Contactos</h2>
+<p class="lead">Fale connosco para pedidos, dúvidas técnicas ou disponibilidade.</p>
+<dl class="ct">
+<div><dt>Telefone</dt><dd><a href="tel:+258865515306">+258 86 551 5306</a></dd></div>
+<div><dt>Email</dt><dd>a definir</dd></div>
+<div><dt>Endereço físico</dt><dd>a definir</dd></div>
+<div><dt>Localização</dt><dd>Moçambique</dd></div>
+</dl>
+<a class="btn b3" href="https://wa.me/258865515306" target="_blank" rel="noopener">Falar pelo WhatsApp</a>
+</div></section>
+</main>
+
+<footer><div class="w"><span>© 2026 Nome da Empresa. Moçambique.</span><span>Redes sociais: adicionar ligações</span></div></footer>
+
+<a class="wa" href="https://wa.me/258865515306" target="_blank" rel="noopener" aria-label="Falar pelo WhatsApp"><svg viewBox="0 0 32 32"><path d="M16 3a13 13 0 0 0-11 19.8L3 29l6.4-2A13 13 0 1 0 16 3zm0 2.4a10.6 10.6 0 1 1-5.6 19.6l-.4-.2-3.8 1.2 1.2-3.7-.3-.4A10.6 10.6 0 0 1 16 5.4zm-4.2 5.4c-.3 0-.7.1-1 .5s-1.2 1.2-1.2 2.9 1.2 3.3 1.4 3.5 2.4 3.7 5.800 5.100c2.800 1.100 3.400.9 4 .8s2-.8 2.300-1.600.3-1.500.2-1.600-.3-.2-.7-.4-2-1-2.300-1.100-.5-.2-.8.200-.9 1.100-1.100 1.300-.4.300-.7.100a8.700 8.700 0 0 1-4.300-3.800c-.3-.6.300-.5.900-1.700.1-.2 0-.4 0-.6l-1-2.300c-.2-.6-.5-.5-.7-.5z"/></svg></a>
+
+<script>
+document.getElementById('qf').addEventListener('submit',function(e){
+e.preventDefault();var f=e.target,v=function(n){return f.elements[n].value.trim()};
+var miss=['nome','tel','mail','cat','desc'].filter(function(n){return !v(n)});
+if(miss.length){f.elements[miss[0]].focus();alert('Preencha os campos obrigatórios (*).');return}
+var t='Pedido de cotação\nNome: '+v('nome')+'\nEmpresa: '+(v('emp')||'-')+'\nTelefone: '+v('tel')+'\nEmail: '+v('mail')+'\nCategoria: '+v('cat')+'\nProduto: '+v('desc')+'\nPaís de origem: '+(v('pais')||'-');
+document.getElementById('ok').style.display='block';
+window.open('https://wa.me/258865515306?text='+encodeURIComponent(t),'_blank','noopener');
+});
+</script>
+</body>
+</html>
